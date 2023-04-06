@@ -18,7 +18,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # ID of the post you want to collect comments from
-post_id = " "
+post_id = "GO TO THE TWEET COPY THE LINK AND PASTE THE NUMBER AT THE END OF THE URL HERE"
                 
                 # Collect comments from the post using the API
 comments = []
